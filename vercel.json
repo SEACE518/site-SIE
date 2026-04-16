@@ -1,4 +1,5 @@
 {
+  "name": "seace-website",
   "rewrites": [
     {
       "source": "/(.*)",
